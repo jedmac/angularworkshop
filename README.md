@@ -7,17 +7,20 @@ Please do not consider the code structure as correct architecture - these simple
 ## Basic commands
 
 ### Full
-ng generate component name_of_component 
+ng generate component name_of_component
+
 ng generate service name_of_service
 
 ### Short
 ng g c name_of_component
+
 ng g s name_of_service
 
 ## Cheatsheet for our Angular application
 
 ### Client/src/app
 Component - used to provide the interaction between user and application
+
 Service - used for providing the data from API
 
 ### Client/src/assets
