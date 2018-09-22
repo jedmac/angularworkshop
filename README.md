@@ -35,4 +35,5 @@ Contains all global styles
 ## Useful links
 
 Material icons - https://material.io/tools/icons/?style=baseline
-Heroku deployment of Angular apps: https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147
+
+Heroku deployment of Angular apps - https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147
