@@ -18,7 +18,7 @@ namespace EmailServer.Database
 
             var emails = new List<Email>();
 
-            for (var i = 0; i < 30; i++)
+            for (var i = 0; i < 500; i++)
             {
                 emails.Add(i % 2 != 0
                     ? new Email {Subject = $"Received Email{i}", Body = $"Email body {i}", Type = EmailType.Received}
