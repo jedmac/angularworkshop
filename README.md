@@ -35,5 +35,7 @@ Contains all global styles
 ## Useful links
 
 Material icons - https://material.io/tools/icons/?style=baseline
+
 Link: link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"
+
 Heroku deployment of Angular apps - https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147
