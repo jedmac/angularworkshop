@@ -1,0 +1,10 @@
+<h2>Create email:</h2>r
+<form class="example-form" [formGroup]="emailForm" (ngSubmit)="onSubmit()">
+	<mat-form-field class="example-full-width">
+		<input matInput formControlName="subject" placeholder="Subject">
+	</mat-form-field>
+	<mat-form-field class="example-full-width">
+		<textarea matInput formControlName="body" placeholder="Body" ></textarea>
+	</mat-form-field>
+	<button mat-raised-button type="submit">Send</button>
+</form>
