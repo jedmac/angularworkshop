@@ -1,4 +1,4 @@
-<h2>Create email:</h2>r
+<h2>Create email:</h2>
 <form class="example-form" [formGroup]="emailForm" (ngSubmit)="onSubmit()">
 	<mat-form-field class="example-full-width">
 		<input matInput formControlName="subject" placeholder="Subject">
